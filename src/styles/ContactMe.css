@@ -1,0 +1,17 @@
+.contact
+{
+    display: flex;
+    align-items: center;
+    color: white;
+    width: 50%;
+    margin: 0 auto;
+    padding: 150px;
+    background-image: url("../Images/contactusbg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    height: 100vh;
+    margin-top: 10%;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 1);
+}
